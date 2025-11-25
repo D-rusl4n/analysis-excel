@@ -1,7 +1,7 @@
 # 📈 Portfólio: Excel para Análise de Dados (Do Zero ao Dashboard)
 
 ## 📝 Sobre o Projeto
-Este repositório consolida minha jornada prática em cursos de **Excel para Análise de Dados**. O objetivo foi dominar a ferramenta mais utilizada no mundo corporativo, indo desde o tratamento de dados brutos com funções complexas, passando pela análise estatística, até a construção de Dashboards interativos com Data Storytelling.
+Este repositório consolida minha jornada prática em cursos de **Excel para Análise de Dados**. O objetivo foi dominar a ferramenta mais utilizada no mundo corporativo, indo desde o tratamento de dados brutos com funções complexas, passando pela análise estatística, até a construção de Dashboards com Data Storytelling.
 
 O projeto foi dividido em três etapas cruciais de aprendizado, simulando cenários reais de negócios.
 
