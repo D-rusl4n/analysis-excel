@@ -11,7 +11,7 @@ O projeto foi dividido em três etapas cruciais de aprendizado, simulando cenár
 
 Nesta fase inicial, o foco foi a manipulação e limpeza de bases de dados de vendas. O desafio era estruturar dados brutos para permitir análises rápidas e dinâmicas. Aprendi a criar lógicas condicionais complexas para categorizar produtos e automatizar buscas de informações entre tabelas diferentes.
 
-!(<img width="1918" height="958" alt="Captura de tela 2025-11-25 172951" src="https://github.com/user-attachments/assets/8bf62f68-1deb-4571-a9b8-5641fd8350bb" />)
+<img width="1918" height="958" alt="Captura de tela 2025-11-25 172951" src="https://github.com/user-attachments/assets/8bf62f68-1deb-4571-a9b8-5641fd8350bb" />
 
 
 ### 🛠️ Ferramentas e Conceitos Aplicados:
@@ -26,7 +26,7 @@ Nesta fase inicial, o foco foi a manipulação e limpeza de bases de dados de ve
 
 Após estruturar os dados, o foco passou para a compreensão do comportamento numérico da base. Utilizei as ferramentas de análise do Excel para entender a distribuição, tendências centrais e a dispersão dos dados de vendas e lucro.
 
-!(<img width="1914" height="927" alt="Captura de tela 2025-11-25 173030" src="https://github.com/user-attachments/assets/e5e0221f-9a25-4d13-9b44-1546087dea94" />)
+<img width="1914" height="927" alt="Captura de tela 2025-11-25 173030" src="https://github.com/user-attachments/assets/e5e0221f-9a25-4d13-9b44-1546087dea94" />
 
 
 ### 🛠️ Ferramentas e Conceitos Aplicados:
@@ -40,7 +40,7 @@ Após estruturar os dados, o foco passou para a compreensão do comportamento nu
 
 A etapa final foi a consolidação de todo o conhecimento em um produto visual para tomada de decisão. O desafio era criar um Dashboard para um Café Bistrô fictício, contando uma história clara sobre a saúde financeira do negócio através de KPIs e gráficos visuais.
 
-!(<img width="1899" height="893" alt="Captura de tela 2025-11-25 173133" src="https://github.com/user-attachments/assets/29593a67-02e2-4dea-a211-79ca86d3e880" />)
+<img width="1899" height="893" alt="Captura de tela 2025-11-25 173133" src="https://github.com/user-attachments/assets/29593a67-02e2-4dea-a211-79ca86d3e880" />
 
 
 ### 🛠️ Ferramentas e Conceitos Aplicados:
