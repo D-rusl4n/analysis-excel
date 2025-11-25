@@ -3,11 +3,11 @@
 ## 📝 Sobre o Projeto
 Este repositório consolida minha jornada prática em cursos de **Excel para Análise de Dados**. O objetivo foi dominar a ferramenta mais utilizada no mundo corporativo, indo desde o tratamento de dados brutos com funções complexas, passando pela análise estatística, até a construção de Dashboards com Data Storytelling.
 
-O projeto foi dividido em três etapas cruciais de aprendizado, simulando cenários reais de negócios.
+O projeto foi dividido em três cursos com etapas cruciais de aprendizado, simulando cenários reais de negócios.
 
 ---
 
-## 🧩 Etapa 1: Tratamento de Dados e Funções Avançadas (Varejo)
+## 🧩 Curso 1: Tratamento de Dados e Funções Avançadas (Varejo)
 
 Nesta fase inicial, o foco foi a manipulação e limpeza de bases de dados de vendas. O desafio era estruturar dados brutos para permitir análises rápidas e dinâmicas. Aprendi a criar lógicas condicionais complexas para categorizar produtos e automatizar buscas de informações entre tabelas diferentes.
 
@@ -22,7 +22,7 @@ Nesta fase inicial, o foco foi a manipulação e limpeza de bases de dados de ve
 
 ---
 
-## 📊 Etapa 2: Análise Estatística Descritiva
+## 📊 Curso 2: Análise Estatística Descritiva
 
 Após estruturar os dados, o foco passou para a compreensão do comportamento numérico da base. Utilizei as ferramentas de análise do Excel para entender a distribuição, tendências centrais e a dispersão dos dados de vendas e lucro.
 
@@ -36,7 +36,7 @@ Após estruturar os dados, o foco passou para a compreensão do comportamento nu
 
 ---
 
-## ☕ Etapa 3: Dashboard & Data Storytelling (Case "Serenatto")
+## ☕ Curso 3: Dashboard & Data Storytelling (Case "Serenatto")
 
 A etapa final foi a consolidação de todo o conhecimento em um produto visual para tomada de decisão. O desafio era criar um Dashboard para um Café Bistrô fictício, contando uma história clara sobre a saúde financeira do negócio através de KPIs e gráficos visuais.
 
