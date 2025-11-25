@@ -1,4 +1,4 @@
-<img width="1899" height="893" alt="Captura de tela 2025-11-25 173133" src="https://github.com/user-attachments/assets/1cf63a73-3943-4ce4-a8bb-78c4c041c930" /># 📈 Portfólio: Excel para Análise de Dados (Do Zero ao Dashboard)
+# 📈 Portfólio: Excel para Análise de Dados (Do Zero ao Dashboard)
 
 ## 📝 Sobre o Projeto
 Este repositório consolida minha jornada prática no curso de **Excel para Análise de Dados**. O objetivo foi dominar a ferramenta mais utilizada no mundo corporativo, indo desde o tratamento de dados brutos com funções complexas, passando pela análise estatística, até a construção de Dashboards interativos com Data Storytelling.
